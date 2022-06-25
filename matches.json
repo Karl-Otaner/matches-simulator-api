@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local":{
       "nome":  "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
     },
     "mandante": {
       "nome":  "Brasil",
@@ -20,7 +20,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local":{
       "nome":  "Estádio Centenário",
-      "imagem": "TODO"
+      "imagem": "https://futebolatino.lance.com.br/superclassico-uruguaio-nacional-esta-a-quatro-partidas-sem-perder-para-o-penarol/"
     },
     "mandante": {
       "nome":  "Uruguay",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local":{
       "nome":  "Mangueirão",
-      "imagem": "TODO"
+      "imagem": "https://besthqwallpapers.com/sport/mangueirao-state-stadium-edgar-augusto-proenca-est%C3%A1dio-olimpico-do-para-belem-para-79569"
     },
     "mandante": {
       "nome":  "Brasil",
