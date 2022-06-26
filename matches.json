@@ -20,7 +20,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local":{
       "nome":  "Estádio Centenário",
-      "imagem": "https://en.wikipedia.org/wiki/File:Estadio_Centenario_2021.jpg"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Estadio_Centenario_2021.jpg"
     },
     "mandante": {
       "nome":  "Uruguay",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local":{
       "nome":  "Mangueirão",
-      "imagem": "https://en.wikipedia.org/wiki/File:Est%C3%A1dio_Ol%C3%ADmpico_-_Par%C3%A1.jpg"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Est%C3%A1dio_Ol%C3%ADmpico_-_Par%C3%A1.jpg/220px-Est%C3%A1dio_Ol%C3%ADmpico_-_Par%C3%A1.jpg"
     },
     "mandante": {
       "nome":  "Brasil",
